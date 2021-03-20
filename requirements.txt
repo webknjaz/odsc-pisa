@@ -6,7 +6,7 @@ coverage==3.7.1
 cryptography
 enum34==1.0.4
 ipython==3.1.0
-Jinja2==2.7.3
+Jinja2==2.11.3
 jsonschema==2.4.0
 MarkupSafe==0.23
 matplotlib==1.4.3
